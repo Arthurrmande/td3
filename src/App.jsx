@@ -1,7 +1,7 @@
-import Exercice5 from "./Exercices/Exercice5";
+import Exercice10 from "./Exercices/Exercice10";
 
 function App() {
-  return <Exercice5 />;
+  return <Exercice10 />;
 }
 
 export default App;
